@@ -6,7 +6,7 @@ on:
     branches: [ main ]
 
 env:
-  workspace-name: myWorkspace_ML 
+  workspace-name: myWorkspace_ml 
   resource-group: myResourceGroup 
 
 permissions:
